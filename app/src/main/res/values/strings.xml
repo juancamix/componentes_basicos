@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterfazGrafica</string>
+    <string name="Title1">componentes basicos</string>
+    <string name="Title2">Radio Button</string>
+    <string name="RadioButton1">Radio 1</string>
+    <string name="RadioButton2">Radio 2</string>
+</resources>
